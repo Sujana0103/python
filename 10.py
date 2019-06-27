@@ -1,6 +1,6 @@
-num=int(input())
+num=input()
 count=0
 for i in num:
-  if(i.isdigit())
-  count+=1
+  if(i.isdigit()):
+    count+=1
 print("count")
