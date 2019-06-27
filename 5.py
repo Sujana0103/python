@@ -1,7 +1,7 @@
-num1,num2,num3=map(int,input().split())
-if((num1>num2) and (num1>num3)):
-  print(num1)
-elif((num2>num3) and (num2>num1)):
-  print(num2)
+a1,b2,c3=map(int,input().split())
+if((a1>b2) and (a1>c3)):
+  print(a1)
+elif((b2>c3) and (b2>a1)):
+  print(b2)
 else:
-  print(num3)
+  print(c3)
