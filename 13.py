@@ -6,4 +6,5 @@ if num>1:
       break
   else:
     print("yes")
-print("no")
+else:
+  print("no")
