@@ -1,5 +1,5 @@
 num=int(input())
-sum-0
+sum=0
 count=0
 temp=num
 while temp>0:
