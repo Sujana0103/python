@@ -5,4 +5,4 @@ for i in range(digit1+1,digit2,1):
       if(i%j)==0:
         break
     else:
-      print(i,end=" ")
+      print(i,end='')
