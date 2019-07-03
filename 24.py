@@ -1,4 +1,4 @@
-in=int(input())
+nums=int(input())
 ara=list(map(int,input().split()))
 ara.sort()
 for i in ara:
