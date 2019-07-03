@@ -1,3 +1,3 @@
-num1,num2=input().split()
-num1,num2=num2,num1
-print(num1,num2)
+dig1,dig2=map(int,input().split())
+dig1,dig2=dig2,dig1
+print(dig1,dig2)
