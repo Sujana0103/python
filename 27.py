@@ -1,4 +1,4 @@
-num=int(input())
+num=input()
 if num.isdigit():
   print("yes")
 else:
