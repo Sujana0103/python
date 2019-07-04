@@ -1,2 +1,2 @@
-dig=int(input())
-print(dig+1)
+sum=int(input())
+print(sum+1)
