@@ -1,2 +1,2 @@
-sum=int(input())
-print(sum+1)
+suji=int(input())
+print(suji+1)
