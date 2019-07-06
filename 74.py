@@ -1,3 +1,3 @@
 import math
-dnum=float(input())
-print(math.ceil(dnum))
+deci=float(input())
+print(math.ceil(deci))
