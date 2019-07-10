@@ -1,2 +1,2 @@
-cel=int(input())
-print(cel+273)
+celt=int(input())
+print(celt+273)
