@@ -1,2 +1,2 @@
-intg=input()
-print(intg[::-1])
+intrev=input()
+print(intrev[::-1])
