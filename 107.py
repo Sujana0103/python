@@ -1,2 +1,2 @@
-a1,b2,c3=map(int,input().split())
-print((a1*b2)/c3)
+x1,y2,z3=map(int,input().split())
+print(int((x1*y2)/z3))
