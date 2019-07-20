@@ -1,2 +1,2 @@
-num=input
-print(num)
+a=int(input())
+print(a)
