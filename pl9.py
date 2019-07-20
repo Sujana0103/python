@@ -1,2 +1,3 @@
-a=int(input())
-print(a)
+anum=int(input())
+bnum=anum
+print(bnum)
