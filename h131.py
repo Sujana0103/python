@@ -1,10 +1,10 @@
-intg=int(input())
+num=int(input())
 l=list(map(int,input().split()))
-u=sorted(lis1)
-v=u[::-1]
+a=sorted(l)
+b=a[::-1]
 arr=[]
 for i in range(0,len(l)):
-  arr.append(v[i])
-  arr.append(u[i])
+  arr.append(b[i])
+  arr.append(a[i])
 for j in arr[:len(l)]:
   print(j,end=" ")
